@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <IsPackable>true</IsPackable>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Description>Procountor plugin for API Framework.</Description>
+    <PackageDescription>Procountor plugin for API Framework.</PackageDescription>
+    <PackageId>Adafy.ApiFramework.Plugins.Procountor</PackageId>
+    <Product>Adafy.ApiFramework.Plugins.Procountor</Product>
+    <AssemblyName>Adafy.ApiFramework.Plugins.Procountor</AssemblyName>
+    <PackageTags>apiframework;Procountor</PackageTags>
+    <Title>Procountor plugin for API Framework.</Title>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Weikio.ApiFramework.SDK" Version="1.0.0" />
+    <PackageReference Include="Weikio.ApiFramework.Plugins.OpenApi" Version="1.0.0" />
+    <PackageReference Include="NewtonSoft.Json" Version="12.0.3" />
+    <PackageReference Include="Polly" Version="7.2.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="../../docs/logo_256.png" Pack="true" Visible="false" PackagePath="" />
+  </ItemGroup>
+
+</Project>

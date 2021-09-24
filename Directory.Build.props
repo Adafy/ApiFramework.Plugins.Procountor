@@ -1,0 +1,18 @@
+<Project>
+  
+  <PropertyGroup>
+    <Authors>Adafy Oy</Authors>
+    <Company>Adafy Oy</Company>
+    <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
+    <RepositoryUrl>https://github.com/Adafy/ApiFramework.Plugins.Procountor</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/Adafy/ApiFramework.Plugins.Procountor</PackageProjectUrl>
+    <Copyright>©2021 Adafy Oy</Copyright>
+    <LangVersion>8.0</LangVersion>
+    <MinVerMinimumMajorMinor>1.0</MinVerMinimumMajorMinor>
+  </PropertyGroup>
+  
+  <ItemGroup>
+    <PackageReference Include="MinVer" Version="2.0.0" PrivateAssets="all" />
+  </ItemGroup>
+  
+</Project>
