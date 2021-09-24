@@ -1,9 +1,18 @@
 # Procountor plugin for API Framework
 
-Plugin which provides OpenAPI interface to Procountor.
+Procountor plugin for API Framework.
 
-[![Nuget Version](https://img.shields.io/nuget/v/Weikio.ApiFramework.Plugins.Procountor.svg?style=flat)](https://www.nuget.org/packages/Weikio.ApiFramework.Plugins.Procountor/)
+[![Nuget Version](https://img.shields.io/nuget/v/Adafy.ApiFramework.Plugins.Procountor.svg?style=flat)](https://www.nuget.org/packages/Adafy.ApiFramework.Plugins.Procountor/)
+
+## Support
+
+Commercial support for Plugin Framework is provided by [Adafy](https://adafy.com).
+
+![Adafy Logo](docs/Adafy_logo_256.png)
+
+Adafy is a Finnish software development house, focusing on Microsoft technologies.
 
 # More details
 
+- [Adafy](https://adafy.com)
 - [API Framework](https://github.com/weikio/apiframework)
