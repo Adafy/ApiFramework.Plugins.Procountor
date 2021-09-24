@@ -6,7 +6,7 @@ Procountor plugin for API Framework.
 
 ## Support
 
-Commercial support for Plugin Framework is provided by [Adafy](https://adafy.com).
+Commercial support is provided by [Adafy](https://adafy.com).
 
 ![Adafy Logo](docs/Adafy_logo_256.png)
 
