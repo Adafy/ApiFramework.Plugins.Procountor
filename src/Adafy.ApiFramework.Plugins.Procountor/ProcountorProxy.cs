@@ -285,7 +285,8 @@ namespace Adafy.ApiFramework.Plugins.Procountor
 
                     return false;
                 },
-                TagTransformMode = TagTransformModeEnum.UseEndpointNameOrRoute
+                TagTransformMode = TagTransformModeEnum.UseOriginal,
+                PrefixMode = PrefixMode.OnlyPrefix
             };
 
             if (page > 0)
